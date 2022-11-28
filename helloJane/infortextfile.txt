@@ -1,0 +1,20 @@
+? What do you want to make? AWS - Node.js - Starter
+? What do you want to call this project? helloJane
+
+✔ Project successfully created in helloJane folder
+
+? What org do you want to add this service to? intel
+? What application do you want to add this to? [create a new app]
+? What do you want to name this application? hello-jane
+
+✔ Your project is ready to be deployed to Serverless Dashboard (org: "intel", app: "hello-jane")
+
+? Do you want to deploy now? Yes
+
+Deploying helloJane to stage dev (us-east-1)
+
+✔ Service deployed to stack helloJane-dev (129s)
+
+dashboard: https://app.serverless.com/intel/apps/hello-jane/helloJane/dev/us-east-1
+functions:
+  hello: helloJane-dev-hello (232 kB)
